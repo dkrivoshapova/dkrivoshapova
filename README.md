@@ -1,16 +1,12 @@
 ### Hi there 👋
+### I'm a begginer Software developer.
+- 🔭 I’m currently working on program to visualise 3D wireframe models
+- 🌱 I’m currently learning C++
 
-<!--
-**dkrivoshapova/dkrivoshapova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+---
+<p align="left">
+  <a href="https://t.me/dkrivoshapova" target="_blank" style='margin-right:10px'>
+    <img align="center" style="margin-right:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="45px" />
+  </a>
+</p>
