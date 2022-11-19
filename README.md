@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I'm a begginer Software developer.
-- 🔭 I’m currently working on program to visualise 3D wireframe models
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ 
 
 ### Contact
 ---
